@@ -1,6 +1,0 @@
-E:\Projects\train_interview\repeatedString\repeatedString\bin\Debug\repeatedString.exe.config
-E:\Projects\train_interview\repeatedString\repeatedString\bin\Debug\repeatedString.exe
-E:\Projects\train_interview\repeatedString\repeatedString\bin\Debug\repeatedString.pdb
-E:\Projects\train_interview\repeatedString\repeatedString\obj\Debug\repeatedString.csproj.CoreCompileInputs.cache
-E:\Projects\train_interview\repeatedString\repeatedString\obj\Debug\repeatedString.exe
-E:\Projects\train_interview\repeatedString\repeatedString\obj\Debug\repeatedString.pdb
