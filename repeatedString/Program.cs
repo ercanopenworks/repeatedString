@@ -34,6 +34,34 @@ namespace repeatedString
             //    }
             //}
             //return sTimes * (rCountA + lCountA) + lCountA;
+            
+            //another solution-2
+            
+            //long aCountConst = 0;
+    
+            //foreach(char item in s)
+            //{
+            //    if (item == 'a')
+            //    {
+            //        aCountConst++;
+            //    }
+            //}
+
+            //long aCount = 0;
+            //long repeatCount = n / s.Length;
+            //long remainsCount = n % s.Length;
+
+            //aCount = aCountConst * repeatCount;
+
+            //for (int i = 0; i < remainsCount; i++)
+            //{
+            //    if (s[i] == 'a')
+            //    {
+            //        aCount++;
+            //    }
+            //}
+
+            //return aCount;
 
             //linq solution
             char l = 'a';
